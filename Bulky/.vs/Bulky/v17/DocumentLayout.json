@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\",
+  "WorkspaceRootPath": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|f:\\udemytutorial\\bulky-web-mvc\\bulky\\bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Properties\\launchSettings.json",
+              "DocumentMoniker": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BulkyWeb\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Properties\\launchSettings.json",
               "RelativeToolTip": "BulkyWeb\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-23T09:36:39.495Z",
               "EditorCaption": ""
