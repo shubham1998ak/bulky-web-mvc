@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAKAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-24T16:54:00.523Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T16:47:29.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T16:47:29.566Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T16:23:09.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T16:23:09.4Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Edit.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T16:12:38.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T16:12:38.889Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "BulkyWeb\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T09:51:49.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T09:51:49.776Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAowCIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T09:24:46.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T09:24:46.959Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T08:38:23.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T08:38:23.032Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAwwF8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T08:35:51.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T08:35:51.76Z"
             }
           ]
         }
