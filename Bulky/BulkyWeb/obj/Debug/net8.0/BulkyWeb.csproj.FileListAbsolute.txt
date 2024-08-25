@@ -315,3 +315,9 @@ F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\ru\Microsoft.Code
 F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
+F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+F:\UdemyTutorial\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb

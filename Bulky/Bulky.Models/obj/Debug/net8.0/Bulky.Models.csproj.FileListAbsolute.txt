@@ -1,0 +1,12 @@
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.sourcelink.json
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
