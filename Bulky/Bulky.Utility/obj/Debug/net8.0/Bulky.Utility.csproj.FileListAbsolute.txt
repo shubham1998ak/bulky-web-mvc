@@ -10,3 +10,15 @@ F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utilit
 F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
 F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
