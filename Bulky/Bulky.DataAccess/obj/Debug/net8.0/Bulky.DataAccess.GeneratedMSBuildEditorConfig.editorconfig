@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bulky.DataAccess
-build_property.ProjectDir = C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.DataAccess\
+build_property.ProjectDir = F:\UdemyTutorial\bulky-web-mvc\Bulky\Bulky.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

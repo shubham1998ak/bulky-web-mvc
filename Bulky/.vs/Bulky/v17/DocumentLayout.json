@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\",
+  "WorkspaceRootPath": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|f:\\udemytutorial\\bulky-web-mvc\\bulky\\bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A2849B-B6D5-4A0A-8D84-F63EA81C888B}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A2849B-B6D5-4A0A-8D84-F63EA81C888B}|Bulky.Models\\Bulky.Models.csproj|f:\\udemytutorial\\bulky-web-mvc\\bulky\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A2849B-B6D5-4A0A-8D84-F63EA81C888B}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|f:\\udemytutorial\\bulky-web-mvc\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A2849B-B6D5-4A0A-8D84-F63EA81C888B}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A2849B-B6D5-4A0A-8D84-F63EA81C888B}|Bulky.Models\\Bulky.Models.csproj|f:\\udemytutorial\\bulky-web-mvc\\bulky\\bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A2849B-B6D5-4A0A-8D84-F63EA81C888B}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,50 +32,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\Bulky.Models\\Product.cs",
+              "DocumentMoniker": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\Bulky.Models\\Product.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\Bulky.Models\\Product.cs",
+              "ToolTip": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\Bulky.Models\\Product.cs",
               "RelativeToolTip": "Bulky.Models\\Product.cs",
               "ViewState": "AgIAACwAAAAAAAAAAADwvzYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:03:18.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T13:03:18.382Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:56:55.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T12:56:55.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
+              "DocumentMoniker": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ProductVM.cs",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
               "RelativeToolTip": "Bulky.Models\\ViewModels\\ProductVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T12:55:00.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T12:55:00.688Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAA3AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T12:51:30.301Z",
               "EditorCaption": ""

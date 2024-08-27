@@ -2156,18 +2156,12 @@
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
         },
         "runtime": {
-          "Bulky.Models.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Bulky.Models.dll": {}
         }
       },
       "Bulky.Utility/1.0.0": {
         "runtime": {
-          "Bulky.Utility.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Bulky.Utility.dll": {}
         }
       }
     }
