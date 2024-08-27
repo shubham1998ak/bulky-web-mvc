@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\b8e54859-cbe5-4495-ae8d-3a26195bb2a1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b8e54859-cbe5-4495-ae8d-3a26195bb2a1.jpg"
+    },
+    {
+      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\c4818aa9-467a-458e-bb7c-3d04cbda9b24.png",
+      "PackagePath": "staticwebassets\\images\\product\\c4818aa9-467a-458e-bb7c-3d04cbda9b24.png"
+    },
+    {
       "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
