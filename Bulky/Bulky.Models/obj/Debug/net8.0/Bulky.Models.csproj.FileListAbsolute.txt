@@ -22,3 +22,4 @@ C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulk
 C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
 C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache

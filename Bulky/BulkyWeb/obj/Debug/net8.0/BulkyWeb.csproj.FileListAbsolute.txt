@@ -582,3 +582,7 @@ C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulk
 C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.AssemblyReference.cache
 C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.Up2Date
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\1_shubham_vsi\05Udemy-Tutorial\DotNet-Core-MVC\bulky-web-mvc\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
