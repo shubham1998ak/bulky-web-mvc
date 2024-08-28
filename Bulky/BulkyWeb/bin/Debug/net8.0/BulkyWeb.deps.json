@@ -2853,7 +2853,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0-preview.7.24405.3"
         },
         "runtime": {
-          "Bulky.DataAccess.dll": {}
+          "Bulky.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Bulky.Models/1.0.0": {
@@ -2861,12 +2864,18 @@
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
         },
         "runtime": {
-          "Bulky.Models.dll": {}
+          "Bulky.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Bulky.Utility/1.0.0": {
         "runtime": {
-          "Bulky.Utility.dll": {}
+          "Bulky.Utility.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
