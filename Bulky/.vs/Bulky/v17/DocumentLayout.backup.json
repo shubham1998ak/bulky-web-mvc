@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\admin\\1_shubham_vsi\\05udemy-tutorial\\dotnet-core-mvc\\bulky-web-mvc\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848C20F8-3CBE-4BF3-AF74-EDD93798AE9E}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "product.js",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
-              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\product.js",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
-              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\product.js",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-28T09:39:21.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAIwHIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T09:37:13.073Z",
+              "WhenOpened": "2024-08-30T10:18:35.951Z",
               "EditorCaption": ""
             }
           ]

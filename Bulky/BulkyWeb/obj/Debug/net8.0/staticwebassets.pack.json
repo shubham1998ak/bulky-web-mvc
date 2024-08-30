@@ -1,295 +1,295 @@
 {
   "Files": [
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\137af4d9-0e69-451d-9111-359a6d78f41c.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\137af4d9-0e69-451d-9111-359a6d78f41c.jpg",
       "PackagePath": "staticwebassets\\images\\product\\137af4d9-0e69-451d-9111-359a6d78f41c.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\1db990f2-66f2-4e1f-acf4-466833c5e6a4.png",
-      "PackagePath": "staticwebassets\\images\\product\\1db990f2-66f2-4e1f-acf4-466833c5e6a4.png"
-    },
-    {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\368092e8-12a0-4678-a731-79affc8b1bec.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\368092e8-12a0-4678-a731-79affc8b1bec.jpg",
       "PackagePath": "staticwebassets\\images\\product\\368092e8-12a0-4678-a731-79affc8b1bec.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\4a82514f-a054-46d7-a354-0e8a36396914.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\4a82514f-a054-46d7-a354-0e8a36396914.jpg",
       "PackagePath": "staticwebassets\\images\\product\\4a82514f-a054-46d7-a354-0e8a36396914.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\5cc55ba2-59e0-46fd-843a-497a7f95f454.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\5cc55ba2-59e0-46fd-843a-497a7f95f454.jpg",
       "PackagePath": "staticwebassets\\images\\product\\5cc55ba2-59e0-46fd-843a-497a7f95f454.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\8e06fe02-7d90-4759-a0d2-c36278897642.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\6ea570e2-1c95-445b-bcad-5efb5f7a8fad.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6ea570e2-1c95-445b-bcad-5efb5f7a8fad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\8e06fe02-7d90-4759-a0d2-c36278897642.jpg",
       "PackagePath": "staticwebassets\\images\\product\\8e06fe02-7d90-4759-a0d2-c36278897642.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9a2a2f3e-d49c-48f7-bf97-436bfe50d0a5.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9a2a2f3e-d49c-48f7-bf97-436bfe50d0a5.jpg",
       "PackagePath": "staticwebassets\\images\\product\\9a2a2f3e-d49c-48f7-bf97-436bfe50d0a5.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a8c5e37f-20e5-404a-b935-319a617dfc17.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a8c5e37f-20e5-404a-b935-319a617dfc17.jpg",
       "PackagePath": "staticwebassets\\images\\product\\a8c5e37f-20e5-404a-b935-319a617dfc17.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\b6738f5e-ca4c-4a10-96b3-60fa2546119a.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\b6738f5e-ca4c-4a10-96b3-60fa2546119a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\b6738f5e-ca4c-4a10-96b3-60fa2546119a.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\c0d6be59-3376-4fa0-8106-1086a971929d.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\c0d6be59-3376-4fa0-8106-1086a971929d.jpg"
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\f6d96e64-ce73-4cd1-ad28-c3e9c16e926c.png",
+      "PackagePath": "staticwebassets\\images\\product\\f6d96e64-ce73-4cd1-ad28-c3e9c16e926c.png"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg",
       "PackagePath": "staticwebassets\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\UdemyTutorial\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
