@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg"
     },
     {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

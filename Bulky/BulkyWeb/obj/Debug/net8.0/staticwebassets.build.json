@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qw4g1c7IJU8pyXmrQF8bghdxwOwF/We6qLbiwGEcGOo=",
+  "Hash": "381cMA2OaniXoC7RlXpNA1jdyoYAyuyei7qxDpXfy6g=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1440,6 +1440,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
