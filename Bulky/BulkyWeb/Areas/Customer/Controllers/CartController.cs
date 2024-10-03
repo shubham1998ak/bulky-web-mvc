@@ -3,6 +3,8 @@ using Bulky.Models;
 using Bulky.Models.ViewModels;
 using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Build.Framework;
 using Stripe.Checkout;
@@ -16,12 +18,14 @@ namespace BulkyWeb.Areas.Customer.Controllers
     public class CartController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IEmailSender _emailSender;
         [BindProperty]
         public ShoppingCartVM ShoppingCartVM { get; set; }
 
-        public CartController(IUnitOfWork unitOfWork)
+        public CartController(IUnitOfWork unitOfWork,IEmailSender emailSender)
         {
             _unitOfWork = unitOfWork;
+            _emailSender = emailSender;
         }
         public IActionResult Index()
         {
@@ -119,7 +123,7 @@ namespace BulkyWeb.Areas.Customer.Controllers
             {
                 //it is regular customer account and we need to capture payment
                 //stripe logic
-                var domain = "https://localhost:7140/";
+                var domain = Request.Scheme + "://" + Request.Host.Value + "/";
 
                 var options = new Stripe.Checkout.SessionCreateOptions
                 {
@@ -174,6 +178,10 @@ namespace BulkyWeb.Areas.Customer.Controllers
                 }
                 HttpContext.Session.SetInt32(SD.SessionCart, 0);
             }
+
+            _emailSender.SendEmailAsync(orderHeader.ApplicationUser.Email, "New Order - Bulky Book",
+                $"<p>New order created  - {orderHeader.Id}</p>");
+
             List<ShoppingCart> shoppingCarts = _unitOfWork.ShoppingCart
                 .GetAll(u => u.ApplicationUserId == orderHeader.ApplicationUserId).ToList();
             _unitOfWork.ShoppingCart.RemoveRange(shoppingCarts);

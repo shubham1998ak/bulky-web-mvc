@@ -13,8 +13,44 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\cotton candy back.jpg",
+      "PackagePath": "staticwebassets\\images\\cotton candy back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\cotton candy.jpg",
+      "PackagePath": "staticwebassets\\images\\cotton candy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\dark skies back.jpg",
+      "PackagePath": "staticwebassets\\images\\dark skies back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\dark skies.jpg",
+      "PackagePath": "staticwebassets\\images\\dark skies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\fortune of time back.jpg",
+      "PackagePath": "staticwebassets\\images\\fortune of time back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\fortune of time.jpg",
+      "PackagePath": "staticwebassets\\images\\fortune of time.jpg"
+    },
+    {
       "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\leaves and wonder back.jpg",
+      "PackagePath": "staticwebassets\\images\\leaves and wonder back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\images\\leaves and wonders.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\137af4d9-0e69-451d-9111-359a6d78f41c.jpg",
@@ -59,6 +95,22 @@
     {
       "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg",
       "PackagePath": "staticwebassets\\images\\product\\fdf01d9a-55fe-4c4b-87ce-f90ece0e2053.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\rock in the ocean back.jpg",
+      "PackagePath": "staticwebassets\\images\\rock in the ocean back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\rock in the ocean.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\vanish in the sunset back.jpg",
+      "PackagePath": "staticwebassets\\images\\vanish in the sunset back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\images\\vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\vanish in the sunset.jpg"
     },
     {
       "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
