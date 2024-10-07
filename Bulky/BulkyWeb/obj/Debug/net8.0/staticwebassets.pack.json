@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
       "Id": "C:\\Users\\Admin\\1_shubham_vsi\\05Udemy-Tutorial\\DotNet-Core-MVC\\bulky-web-mvc\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
